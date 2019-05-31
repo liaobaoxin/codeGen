@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qiubai-framework" />
+        <module name="qiubai-common" />
+        <module name="qiubai-system" />
+        <module name="qiubai-admin" />
+        <module name="qiubai-generator" />
+        <module name="qiubai-quartz" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
